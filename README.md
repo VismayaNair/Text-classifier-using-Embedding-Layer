@@ -223,10 +223,7 @@ plot_graphs(history, "loss")
 
 ## OUTPUT
 ### Loss, Accuracy Vs Iteration 
-![image](https://github.com/user-attachments/assets/76fb0869-1507-4ab6-86a3-7d98effc9b8b)
-
-
-![image](https://github.com/user-attachments/assets/d73510a4-b0f8-4033-b05b-bf0a099cb7e8)
+![image](https://github.com/user-attachments/assets/9e7a6bb8-0e3c-41d2-beab-d9ba97a0b411)
 
 
 ## RESULT
